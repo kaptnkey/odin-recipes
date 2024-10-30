@@ -5,3 +5,12 @@ body {
 .para {
     background-color: blue;
 }
+
+.title {
+    background-color: firebrick; 
+}
+
+#list {
+    color: violet;
+    font-style: italic;
+}
